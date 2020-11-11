@@ -1,26 +1,18 @@
 # Strogonoff de Frango :chicken:
 
-## Ingredientes
+### Ingredientes :oil_drum:
 
-1kg de peito de frango desfiado
+- 1kg de peito de frango desfiado
+- 3 colheres de sopa de óleo de milho
+- 1 cebola roxa
+- 3 dentes de alho
+- 1 pacote de molho de tomate
+- 1 lata de creme de leite
+- Champignon
+- Cebolinha picada
+- Sal e pimenta do reino
 
-3 colheres de sopa de óleo de milho
-
-1 cebola roxa
-
-3 dentes de alho
-
-1 pacote de molho de tomate
-
-1 lata de creme de leite
-
-Champignon
-
-Cebolinha picada
-
-Sal e pimenta do reino
-
-## Modo de Preparo
+### Modo de Preparo :spoon:
 
 1. Em uma panela em fogo médio, acrescente o óleo e frite a cebola e o alho picados
 
