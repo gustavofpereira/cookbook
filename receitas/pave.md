@@ -1,6 +1,6 @@
-# Strogonoff de Frango :chicken:
+# Pavê de Chocolate :chocolate_bar:
 
-### Ingredientes :oil_drum:
+### Ingredientes :ice_cream:
 
 - 1kg de peito de frango desfiado
 - 3 colheres de sopa de óleo de milho
