@@ -11,7 +11,7 @@ Olá! Seja bem vindo(a) ao livro de receitas!!
 - [Kazekage](#ancora2)
 - [Mizukage](#ancora3)
 - [Raikage](#ancora4)
-- [Tsuchikage](#ancora4)
+- [Tsuchikage](#ancora5)
 
 <a id="ancora1"></a>
 ## Hokage
