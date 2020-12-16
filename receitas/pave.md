@@ -1,4 +1,3 @@
-<a id="ancora1"></a>
 # Pavê de Chocolate :chocolate_bar:
 
 ### Ingredientes :ice_cream:
@@ -29,4 +28,3 @@
 3. Depois, coloque o creme preto e acrescente as raspas de chocolate sobre ele
 4. Deixe no congelador durante 2 horas
 
-[Menu](#ancora)
