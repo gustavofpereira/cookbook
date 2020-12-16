@@ -2,5 +2,5 @@
 
 Olá! Seja bem vindo(a) ao livro de receitas!!
 
-- [Strogonoff de Frango] (https://github.com/gustavofpereira/livro-receitas/blob/master/receitas/strogonoff.md)
+- [Strogonoff de Frango] (#strogonoff-de-frango)
 - [Pavê de Chocolate] (https://github.com/gustavofpereira/livro-receitas/blob/master/receitas/pave.md)
