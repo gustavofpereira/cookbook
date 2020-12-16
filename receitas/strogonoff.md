@@ -15,8 +15,6 @@
 ### Modo de Preparo :spoon:
 
 1. Em uma panela em fogo médio, acrescente o óleo e frite a cebola e o alho picados
-
 2. Em seguida, acrescente o peito de frango picado em cubos e deixe fritar até dourar
-
 3. Adicione o molho de tomate e demais temperos
 4. Ao final, adicione os champignons e o creme de leite
