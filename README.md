@@ -13,7 +13,7 @@ Olá! Seja bem vindo(a) ao livro de receitas!!
 - [Raikage](#ancora4)
 - [Tsuchikage](#ancora5)
 
-<a id="ancora1"></a>
+
 ## Hokage
 > Loren Ipsum
 Donec nec mattis dui, quis sagittis magna. Praesent in sollicitudin erat, non molestie velit. Nam tempor metus et laoreet sodales. Sed eu mauris odio. Maecenas at feugiat mi. Nam venenatis accumsan mi, in dictum nisl. Phasellus laoreet nec sem at volutpat.
