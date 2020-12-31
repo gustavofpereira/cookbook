@@ -1,4 +1,4 @@
-# :chocolate_bar: Chocolate mousse
+# Chocolate mousse :chocolate_bar: 
 
 ### :octocat: Ingredients
 
