@@ -3,7 +3,7 @@
 ### :octocat: Ingredients
 
 - 150g 70% dark chocolate, plus extra to serve
-- 6 egg whites
+- 6 white eggs
 - 2 tbsp golden caster sugar
 - 4 tbsp crème fraîche and grated chocolate, to serve
 
