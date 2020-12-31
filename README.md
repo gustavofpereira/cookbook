@@ -1,6 +1,8 @@
-# :woman_cook: Livros de Receitas :man_cook:
+# This was my first repository to learn GitHub basics
 
-Olá! Seja bem vindo(a) ao livro de receitas!!
+## :woman_cook: Cookbook :man_cook:
 
-- [Strogonoff de Frango](https://github.com/gustavofpereira/livro-receitas/blob/master/receitas/strogonoff.md)
-- [Pavê de Chocolate](https://github.com/gustavofpereira/livro-receitas/blob/master/receitas/pave.md)
+Hi! Welcome to the cookbook !!
+
+- [Chicken´s strogonoff](https://github.com/gustavofpereira/livro-receitas/blob/master/receitas/strogonoff.md)
+- [Chocolate Pavé](https://github.com/gustavofpereira/livro-receitas/blob/master/receitas/pave.md)
