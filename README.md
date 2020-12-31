@@ -1,6 +1,6 @@
-:small_red_triangle_down: This was my first repository to learn GitHub basics
+## *:large_orange_diamond: This was my first repository to learn GitHub basics
 
-## :woman_cook: Cookbook :man_cook:
+# :woman_cook: Cookbook :man_cook:
 
 Hi! Welcome to the cookbook !!
 
