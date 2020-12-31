@@ -1,20 +1,20 @@
 # :chocolate_bar: Chocolate mousse
 
-### :chocolate_bar: Ingredients
+### :octocat: Ingredients
 
 - 150g 70% dark chocolate, plus extra to serve
 - 6 egg whites
 - 2 tbsp golden caster sugar
 - 4 tbsp crème fraîche and grated chocolate, to serve
 
-### :spoon: Method
+### :construction: Method
 
 1. Melt the chocolate in the microwave in a microwaveable bowl, stirring every 30 seconds until just melted
 2. Whisk the egg whites to soft peaks
 3. Scatter in the sugar
 4. Whisk again until the mixture forms stiff peaks when you lift the whisk out (around 30 seconds)
 
-### :construction: Finishing
+### :spoon: Finishing
 
  and . Then . . .
 
