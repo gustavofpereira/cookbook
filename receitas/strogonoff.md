@@ -1,5 +1,5 @@
 
-# Chocolate mousse :chocolate_bar: 
+# Chocolate mousse :chicken: 
 
 <p align="center">
   <img alt="chocolate-mousse" src="https://github.com/gustavofpereira/livro-receitas/blob/master/chocolate-mousse.png" width="25%">
@@ -7,10 +7,21 @@
 
 ### :octocat: Ingredients
 
-- 150g 70% dark chocolate, plus extra to serve
-- 6 white eggs
-- 2 tbsp golden caster sugar
-- 4 tbsp crème fraîche and grated chocolate, to serve
+- 1 (12-oz.) package egg noodles
+- 2 tbsp. butter
+- 1 tbsp. vegetable oil
+- 1 lb. boneless skinless chicken breasts, cut into 1" pieces Kosher salt Freshly ground black pepper
+- 2 tbsp. extra-virgin olive oil, divided
+- 1 lb. baby bella mushrooms, thinly sliced
+- 1/2 large onion, chopped
+- 2 cloves garlic, minced
+- 2 tsp. fresh rosemary or thyme leaves, chopped
+- 4 c. low-sodium chicken broth
+- 2 tsp. dijon mustard
+- 1 tsp. Worcestershire sauce
+- 2 tbsp. cornstarch
+- 2 tbsp. sour cream, plus more for serving 
+- 2 tbsp. freshly chopped parsley
 
 ### :construction: Method
 
