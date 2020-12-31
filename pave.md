@@ -16,8 +16,6 @@
 
 ### :spoon: Finishing
 
- and . Then . . .
-
 1. Add a big tablespoon of the egg white to the melted chocolate
 2. Mix vigorously, working fast so the chocolate doesn’t cool and harden
 3. Fold in the remaining egg whites carefully using a spatula or large metal spoon
