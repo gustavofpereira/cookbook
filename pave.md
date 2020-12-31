@@ -1,5 +1,9 @@
 # Chocolate mousse :chocolate_bar: 
 
+<p align="center">
+  <img alt="Logo" src="img/instagram-logo.png" width="25%">
+</p>
+
 ### :octocat: Ingredients
 
 - 150g 70% dark chocolate, plus extra to serve
