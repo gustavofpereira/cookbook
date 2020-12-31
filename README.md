@@ -1,4 +1,4 @@
-### *:large_orange_diamond: This is my first repository to learn GitHub basics
+### :large_orange_diamond: This is my first repository to learn GitHub basics
 <br>
 
 # :woman_cook: Cookbook :man_cook:
