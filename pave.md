@@ -16,7 +16,7 @@
 
 ### :spoon: Finishing
 
-1. Add a big egg tablespoon to the melted chocolate
+1. Add a big tablespoon of egg to the melted chocolate
 2. Mix vigorously, working fast so the chocolate doesn’t cool and harden
 3. Fold in the remaining white eggs carefully using a spatula or large metal spoon
 4. Spoon into 4 glasses or ramekins and set in the fridge for 2-3 hours
