@@ -1,22 +1,27 @@
-# Strogonoff de Frango :chicken:
 
-### Ingredientes :oil_drum:
+# Chicken strogonoff :chicken: 
 
-- 1kg de peito de frango desfiado
-- 3 colheres de sopa de óleo de milho
-- 1 cebola roxa
-- 3 dentes de alho
-- 1 pacote de molho de tomate
-- 1 lata de creme de leite
-- Champignon
-- Cebolinha picada
-- Sal e pimenta do reino
+<p align="center">
+  <img alt="chocolate-mousse" src="https://github.com/gustavofpereira/livro-receitas/blob/master/strogonoff.png" width="25%">
+</p>
 
-### Modo de Preparo :spoon:
+### :octocat: Ingredients
 
-1. Em uma panela em fogo médio, acrescente o óleo e frite a cebola e o alho picados
+- 1kg diced chicken breast
+- 3 tbsp of corn oil
+- 1 red onion
+- 3 cloves of garlic
+- 1 packet of tomato sauce
+- 1 can of sour cream
+- French mushrooms
+- Chopped chives
+- Salt and pepper
 
-2. Em seguida, acrescente o peito de frango picado em cubos e deixe fritar até dourar
+### :construction: Method
 
-3. Adicione o molho de tomate e demais temperos
-4. Ao final, adicione os champignons e o creme de leite
+1. In a saucepan over medium heat, add the oil and fry the chopped onion and garlic
+2. Add the diced chicken breast and let it fry until golden brown
+3. Add tomato sauce and other spices
+4. At the end, add the French mushrooms and the sour cream
+
+##### *** Adapted from [taste](https://www.taste.com.au/recipes/chicken-strogonoff/65b02a88-a8a6-4e71-b3a5-68c29b7b59a9)
