@@ -10,7 +10,7 @@
 ### :construction: Method
 
 1. Melt the chocolate in the microwave in a microwaveable bowl, stirring every 30 seconds until just melted
-2. Whisk the egg whites to soft peaks
+2. Whisk the white eggs to soft peaks
 3. Scatter in the sugar
 4. Whisk again until the mixture forms stiff peaks when you lift the whisk out (around 30 seconds)
 
