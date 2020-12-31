@@ -4,7 +4,6 @@
 <p align="center">
   <img alt="chocolate-mousse" src="https://github.com/gustavofpereira/livro-receitas/blob/master/chicken-strogonoff.png" width="40%">
 </p>
-
 ### :octocat: Ingredients
 
 - 1kg diced chicken breast
