@@ -2,7 +2,7 @@
 # Chicken strogonoff :chicken: 
 
 <p align="center">
-  <img alt="chocolate-mousse" src="https://github.com/gustavofpereira/livro-receitas/blob/master/chocolate-mousse.png" width="25%">
+  <img alt="chocolate-mousse" src="https://github.com/gustavofpereira/livro-receitas/blob/master/strogonoff.png" width="25%">
 </p>
 
 ### :octocat: Ingredients
