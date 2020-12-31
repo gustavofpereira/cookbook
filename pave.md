@@ -1,29 +1,25 @@
-# Pavê de Chocolate :chocolate_bar:
+# :chocolate_bar: Chocolate mousse
 
-### Ingredientes :ice_cream:
+### :chocolate_bar: Ingredients
 
-- 1 lata de creme de leite
-- 1 lata de leite (a mesma medida da lata de creme de leite)
-- 2 latas de leite condensado
-- 2 gemas
-- 2 colheres de maisena
-- 3 colheres de chocolate em pó ou achocolatado
-- biscoito maisena
-- leite para molhar os biscoitos
-- raspas de chocolate (opcional)
-- manteiga sem sal ou margarina, só para dar o ponto
+- 150g 70% dark chocolate, plus extra to serve
+- 6 egg whites
+- 2 tbsp golden caster sugar
+- 4 tbsp crème fraîche and grated chocolate, to serve
 
-### Modo de Preparo :spoon:
+### :spoon: Method
 
-1. Primeiro, pegue a lata de leite condensado, as gemas, a maisena e o leite
-2. Coloque no fogo e deixe até que fique um creme, reserve
-3. Coloque a segunda lata de leite condensado com um pouco de margarina e o chocolate
-4. Deixe no fogo até ficar um creme tipo brigadeiro
-5. Desligue o fogo e junte com o creme de leite
+1. Melt the chocolate in the microwave in a microwaveable bowl, stirring every 30 seconds until just melted
+2. Whisk the egg whites to soft peaks
+3. Scatter in the sugar
+4. Whisk again until the mixture forms stiff peaks when you lift the whisk out (around 30 seconds)
 
-### Montagem :construction:
+### :construction: Finishing
 
-1. Coloque primeiro o creme branco
-2. Em seguida, mergulhe os biscoitos no leite e coloque sobre o creme branco
-3. Depois, coloque o creme preto e acrescente as raspas de chocolate sobre ele
-4. Deixe no congelador durante 2 horas
+ and . Then . . .
+
+1. Add a big tablespoon of the egg white to the melted chocolate
+2. Mix vigorously, working fast so the chocolate doesn’t cool and harden
+3. Fold in the remaining egg whites carefully using a spatula or large metal spoon
+4. Spoon into 4 glasses or ramekins and set in the fridge for 2-3 hours
+5. Serve each with a dollop of crème fraiche and shavings of dark chocolate
