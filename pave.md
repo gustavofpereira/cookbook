@@ -16,8 +16,10 @@
 
 ### :spoon: Finishing
 
-1. Add a big tablespoon of the egg white to the melted chocolate
+1. Add a big egg tablespoon to the melted chocolate
 2. Mix vigorously, working fast so the chocolate doesn’t cool and harden
-3. Fold in the remaining egg whites carefully using a spatula or large metal spoon
+3. Fold in the remaining white eggs carefully using a spatula or large metal spoon
 4. Spoon into 4 glasses or ramekins and set in the fridge for 2-3 hours
 5. Serve each with a dollop of crème fraiche and shavings of dark chocolate
+
+#### Adpated from [BBC goodfood:](https://www.bbcgoodfood.com/recipes/easy-chocolate-mousse)
