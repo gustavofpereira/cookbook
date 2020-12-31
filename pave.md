@@ -22,4 +22,4 @@
 4. Spoon into 4 glasses or ramekins and set in the fridge for 2-3 hours
 5. Serve each with a dollop of crème fraiche and shavings of dark chocolate
 
-#### *** Adapted from [BBC goodfood:](https://www.bbcgoodfood.com/recipes/easy-chocolate-mousse)
+#### *** Adapted from [BBC goodfood](https://www.bbcgoodfood.com/recipes/easy-chocolate-mousse)
