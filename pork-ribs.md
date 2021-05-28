@@ -20,10 +20,8 @@ MOP:
 - 3 tablespoons apple cider vinegar
 - 2 tablespoons butter
 - 2 tablespoons barbecue sauce
-- 1/2 tablespoon of RUB used to season the ribs
- 
-<br>
-<br>
+- 1/2 tablespoon of RUB used to season the ribs <br>
+
 
 ### :construction: Method
 
@@ -39,7 +37,7 @@ Now just pull the membrane, if you're lucky it comes out in one piece. The tip i
 
 This Youtube video shows this operation well: [How to remove Membrane from Pork Ribs | Tips](https://www.youtube.com/watch?v=d_fqJcc4n_I&t=35s)
 
-
+<br>
 #### 2. Ribs Seasoning 🧂
 
 Ribs are usually seasoned when it comes to going to the grill. At most 2 to 3 hours before, but I do not think it necessary since the cooking process is long for seasoning act. The baby back ribs use a dry seasoning known as RUB (ingredients above).
@@ -54,7 +52,7 @@ Start by seasoning the ribs from the side of the bone. On this side just give a 
 
 *Turn the rib and pass plenty of seasoning on the meat side. Press the seasoning well so that it penetrates the meat.
 
-
+<br>
 #### 3.	The grill is on 🔥
 
 To bake the ribs you will use indirect fire, that is, the ribs will not be directly on top of the charcoal so as not to burn. And you will use a disposable aluminum packaging with water.
@@ -65,7 +63,7 @@ To bake the ribs you will use indirect fire, that is, the ribs will not be direc
 
 The detail before putting the ribs to bake is the temperature of the barbecue. It has to be "low and slow" that is, the process is slow, and the temperature has to be low, or your rib will get hard.
 
-
+<br>
 #### 4.	MOP, reinforcement on the way... 🍎
 
 The MOP (recipe above) is a liquid marinade for you to brush on the ribs during the cooking process. In addition to helping the ribs get wetter and tender, it also helps to strengthen the seasoning.
@@ -76,7 +74,7 @@ In a small saucepan add all the ingredients and heat for a few minutes until the
 </p>
 
 
-
+<br>
 ### :spoon: Finishing
 
 After two hours of cooking, it is time to put more charcoal... enjoy removing the ribs from the barbecue and give a good brush stroke with the MOP on them.... spread well on both sides.
