@@ -25,3 +25,7 @@
 4. At the end, add the French mushrooms and the sour cream
 
 ##### *** Adapted from [taste](https://www.taste.com.au/recipes/chicken-strogonoff/65b02a88-a8a6-4e71-b3a5-68c29b7b59a9)
+
+<p align="right">
+    <a href="https://github.com/gustavofpereira"><img alt="tagcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/tagcat.png" width="140"></a>
+</p>
