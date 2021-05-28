@@ -22,9 +22,8 @@ MOP:
 - 2 tablespoons barbecue sauce
 - 1/2 tablespoon of RUB used to season the ribs
  
- 
- 
-  
+<br>
+<br>
 ### :construction: Method
 
 #### 1.	Preparing the ribs 🔪
