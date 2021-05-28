@@ -1,7 +1,7 @@
 # Chocolate mousse :chocolate_bar: 
 
 <p align="center">
-  <img alt="chocolate-mousse" src="https://github.com/gustavofpereira/livro-receitas/blob/master/chocolate-mousse.png" width="25%">
+  <img alt="chocolate-mousse" src="pics/chocolate-mousse.png" width="25%">
 </p>
 
 ### :octocat: Ingredients
@@ -28,3 +28,7 @@
 
 
 ##### *** Adapted from [BBC goodfood](https://www.bbcgoodfood.com/recipes/easy-chocolate-mousse)
+
+<p align="right">
+    <a href="https://github.com/gustavofpereira"><img alt="tagcat" src="https://github.com/gustavofpereira/gustavofpereira/blob/main/tagcat.png" width="140"></a>
+</p>
