@@ -25,7 +25,7 @@ MOP:
 
 ### :construction: Method
 
-#### 1.	Preparing the ribs 🔪
+#### *1.	Preparing the ribs* 🔪
 
 The first thing to be done is to clean the ribs. Start with the side of the bones. If you have any pieces of meat on this side (as in the example above), take it off completely. On this side, only the bones should appear.
 
@@ -39,7 +39,7 @@ This Youtube video shows this operation well: [How to remove Membrane from Pork 
 
 
 
-#### 2. Ribs Seasoning 🧂
+#### *2. Ribs Seasoning* 🧂
 
 Ribs are usually seasoned when it comes to going to the grill. At most 2 to 3 hours before, but I do not think it necessary since the cooking process is long for seasoning act. The baby back ribs use a dry seasoning known as RUB (ingredients above).
 
@@ -55,7 +55,7 @@ Start by seasoning the ribs from the side of the bone. On this side just give a 
 
 
 
-#### 3.	The grill is on 🔥
+#### *3.	The grill is on* 🔥
 
 To bake the ribs you will use indirect fire, that is, the ribs will not be directly on top of the charcoal so as not to burn. And you will use a disposable aluminum packaging with water.
 
@@ -67,7 +67,7 @@ The detail before putting the ribs to bake is the temperature of the barbecue. I
 
 
 
-#### 4.	MOP, reinforcement on the way... 🍎
+#### *4.	MOP, reinforcement on the way...* 🍎
 
 The MOP (recipe above) is a liquid marinade for you to brush on the ribs during the cooking process. In addition to helping the ribs get wetter and tender, it also helps to strengthen the seasoning.
 In a small saucepan add all the ingredients and heat for a few minutes until the butter melts. Turn off the heat and the MOP is ready.
