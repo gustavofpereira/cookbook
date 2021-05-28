@@ -1,4 +1,4 @@
-# Chocolate mousse :chocolate_bar: 
+# Chocolate Mousse :chocolate_bar: 
 
 <p align="center">
   <img alt="chocolate-mousse" src="pics/chocolate-mousse.png" width="25%">
