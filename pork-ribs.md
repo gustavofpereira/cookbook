@@ -1,23 +1,27 @@
 # Pork Baby Back Ribs :hotsprings: 
 
 <p align="center">
-  <img alt="chocolate-mousse" src="https://github.com/gustavofpereira/livro-receitas/blob/master/chocolate-mousse.png" width="25%">
+  <img alt="first-and-last" src="pics/pork-ribs/first-and-last.jpg" width="25%">
 </p>
-### :octocat: Ingredients
+
+Ingredients
 
 RUB:
 
-- 2 colheres de sopa de sal refinado
-  2 colheres de sopa de açúcar mascavo
-  1 colher de sopa de páprica picante
-  4 colheres de chá de alho granulado
-  4 colheres de chá de chile em pó
-  2 colheres de chá de pimenta preta moída
+2 tablespoons of refined salt
+2 tablespoons of brown sugar
+1 tablespoon spicy paprika
+4 teaspoons granulated garlic 
+4 teaspoons chile powder
+2 teaspoons ground black and white peppers
 
-- 150g 70% dark chocolate, plus extra to serve
-- 6 white eggs
-- 2 tbsp golden caster sugar
-- 4 tbsp crème fraîche and grated chocolate, to serve
+MOP:
+1 cup fresh apple juice
+3 tablespoons apple cider vinegar
+2 tablespoons butter
+2 tablespoons barbecue sauce
+1/2 tablespoon of RUB used to season the ribs
+
 
 ### :construction: Method
 
@@ -35,4 +39,4 @@ RUB:
 5. Serve each with a dollop of crème fraiche and shavings of dark chocolate
 
 
-##### *** Adapted from [BBC goodfood](https://www.bbcgoodfood.com/recipes/easy-chocolate-mousse)
+##### *** Adapted from [Tailgate: Pork Ribs](http://tail-gate.blogspot.com/2008/11/pork-ribs.html)
