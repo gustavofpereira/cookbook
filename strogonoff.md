@@ -1,5 +1,5 @@
 
-# Chicken strogonoff :chicken: 
+# Chicken Strogonoff :chicken: 
 
 <p align="center">
   <img alt="chocolate-mousse" src="pics/chicken-strogonoff.png" width="40%">
