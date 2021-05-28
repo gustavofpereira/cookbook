@@ -23,6 +23,7 @@ MOP:
 - 1/2 tablespoon of RUB used to season the ribs
 
 
+
 ### :construction: Method
 
 #### 1.	Preparing the ribs 🔪
@@ -35,9 +36,7 @@ The first thing to be done is to clean the ribs. Start with the side of the bone
 
 Now just pull the membrane, if you're lucky it comes out in one piece. The tip is to pull with the help of a paper towel because it is exceptionally smooth and slippery.
 
-This Youtube video shows this operation well:
-
-[How to remove Membrane from Pork Ribs | Tips](https://www.youtube.com/watch?v=d_fqJcc4n_I&t=35s)
+This Youtube video shows this operation well: [How to remove Membrane from Pork Ribs | Tips](https://www.youtube.com/watch?v=d_fqJcc4n_I&t=35s)
 
 
 #### 2. Ribs Seasoning 🧂
@@ -74,6 +73,7 @@ In a small saucepan add all the ingredients and heat for a few minutes until the
 <p align="center">
   <img alt="first-and-last" src="pics/pork-ribs/fifth.jpg" width="50%">
 </p>
+
 
 
 ### :spoon: Finishing
