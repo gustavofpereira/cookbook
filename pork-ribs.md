@@ -25,18 +25,36 @@ MOP:
 
 ### :construction: Method
 
-1. Melt the chocolate in the microwave in a microwaveable bowl, stirring every 30 seconds until just melted
-2. Whisk the white eggs to soft peaks
-3. Scatter in the sugar
-4. Whisk again until the mixture forms stiff peaks when you lift the whisk out (around 30 seconds)
+#### 1.	Preparing the ribs
+
+#### 2. Seasoning ribs
+
+#### 3.	The grill is on
+
+#### 4.	MOP, reinforcement on the way...
 
 ### :spoon: Finishing
 
-1. Add a big tablespoon of egg to the melted chocolate
-2. Mix vigorously, working fast so the chocolate doesn’t cool and harden
-3. Fold in the remaining white eggs carefully using a spatula or large metal spoon
-4. Spoon into 4 glasses or ramekins and set in the fridge for 2-3 hours
-5. Serve each with a dollop of crème fraiche and shavings of dark chocolate
+After two hours of cooking, it is time to put more charcoal... enjoy removing the ribs from the barbecue and give a good brush stroke with the MOP on them.... spread well on both sides.
+The process should still last another two hours (four hours in total) depend on the thickness of the rib.... every half-hour be sure to brush the MOP and check the temperature.... after four hours the ribs should be well toasted and soft, almost loosening the bone...
+
+<p align="center">
+  <img alt="first-and-last" src="pics/pork-ribs/sixth.jpg" width="50%">
+</p>
+
+<p align="center">
+  <img alt="first-and-last" src="pics/pork-ribs/seventh.jpg" width="50%">
+</p>
+
+<p align="center">
+  <img alt="first-and-last" src="pics/pork-ribs/eigth.jpg" width="50%">
+</p>
+
+THAT´S IT!!! I suggest serving them with a bacon-garlic mashed potatoes or potatoes with cheese and bacon.... is a perdition… do not forget the extra dose of barbecue sauce...... ENJOY !!!!!!!!!
+
+<p align="center">
+  <img alt="first-and-last" src="pics/pork-ribs/first-and-last" width="50%">
+</p>
 
 
 ##### *** Adapted from [Tailgate: Pork Ribs](http://tail-gate.blogspot.com/2008/11/pork-ribs.html)
