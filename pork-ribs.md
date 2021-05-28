@@ -20,7 +20,7 @@ MOP:
 - 3 tablespoons apple cider vinegar
 - 2 tablespoons butter
 - 2 tablespoons barbecue sauce
-- 1/2 tablespoon of RUB used to season the ribs <br/>
+- 1/2 tablespoon of RUB used to season the ribs <br />
 
 
 ### :construction: Method
