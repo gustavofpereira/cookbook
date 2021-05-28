@@ -23,7 +23,7 @@ MOP:
 - 1/2 tablespoon of RUB used to season the ribs <br />
 
 
-### :construction: Method
+### :construction: Method <br />
 
 __#### 1.	Preparing the ribs 🔪__
 
