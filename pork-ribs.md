@@ -27,7 +27,7 @@ MOP:
 
 ### :construction: Method
 
-_#### 1.	Preparing the ribs 🔪_
+__#### 1.	Preparing the ribs 🔪__
 
 The first thing to be done is to clean the ribs. Start with the side of the bones. If you have any pieces of meat on this side (as in the example above), take it off completely. On this side, only the bones should appear.
 
