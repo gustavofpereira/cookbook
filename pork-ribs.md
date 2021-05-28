@@ -1,7 +1,7 @@
 # Pork Baby Back Ribs :hotsprings: 
 
 <p align="center">
-  <img alt="first-and-last" src="pics/pork-ribs/first-and-last.jpg" width="25%">
+  <img alt="first-and-last" src="pics/pork-ribs/first-and-last.jpg" width="50%">
 </p>
 
 Ingredients
