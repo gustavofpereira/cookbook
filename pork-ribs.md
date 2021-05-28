@@ -4,23 +4,23 @@
   <img alt="first-and-last" src="pics/pork-ribs/first-and-last.jpg" width="50%">
 </p>
 
-Ingredients
+### :octocat: Ingredients
 
 RUB:
 
-2 tablespoons of refined salt
-2 tablespoons of brown sugar
-1 tablespoon spicy paprika
-4 teaspoons granulated garlic 
-4 teaspoons chile powder
-2 teaspoons ground black and white peppers
+- 2 tablespoons of refined salt
+- 2 tablespoons of brown sugar
+- 1 tablespoon spicy paprika
+- 4 teaspoons granulated garlic 
+- 4 teaspoons chile powder
+- 2 teaspoons ground black and white peppers
 
 MOP:
-1 cup fresh apple juice
-3 tablespoons apple cider vinegar
-2 tablespoons butter
-2 tablespoons barbecue sauce
-1/2 tablespoon of RUB used to season the ribs
+- 1 cup fresh apple juice
+- 3 tablespoons apple cider vinegar
+- 2 tablespoons butter
+- 2 tablespoons barbecue sauce
+- 1/2 tablespoon of RUB used to season the ribs
 
 
 ### :construction: Method
